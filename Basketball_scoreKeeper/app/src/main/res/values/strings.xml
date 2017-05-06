@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basketball_scoreKeeper</string>
+    <string name="A">HOME</string>
+    <string name="B">VISITOR</string>
+    <string name="score">0</string>
+    <string name="P3">+3 Points</string>
+    <string name="P2">+2 Points</string>
+    <string name="free">Free Throw</string>
+    <string name="button_reset">RESET</string>
+    <string name="give_me_img">Show me image</string>
+</resources>
